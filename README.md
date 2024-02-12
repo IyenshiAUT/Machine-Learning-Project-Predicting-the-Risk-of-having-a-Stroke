@@ -40,7 +40,7 @@
   <h2 style="color: #000066;">Results</h2>
   <div style="display: flex;">
       <h4>Performance of two models</h4>
-  <img src="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/Performance 1.PNG" width = "50%"/>
+  <img src="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/Performance%201.PNG?raw=true" width = "50%"/>
   <h4>ROC Curve for two models</h4>
 <img src = "https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/ROC.PNG" width="50%"/>
     </div>
