@@ -5,6 +5,7 @@
   <h1 style="color: #3498db;">Predicting the Risk of having a Stroke using Demographics and Health Factors a Person</h1>
 
   <h2 style="color: #2ecc71;">Overview</h2>
+  <img src ="https://tse1.mm.bing.net/th?id=OIP.1VJKfDu_CCGShGGKAKE9RAHaE8&pid=Api&P=0&h=220" align="right"/>
 
   <p>A considerable number of people are dying a year due to strokes because many of them have not any idea whether they are like to face this condition. So the model that we are going to implemented can be used in health sectors for predicting whether a person is going to have a stroke and if the result is possible they can take necessary actions to prevent from having a stroke.</p>
 
