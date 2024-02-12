@@ -38,19 +38,12 @@
 
   
 
-  <h2 style="color: #2ecc71;">Contributing</h2>
-
-  <p>Explain how others can contribute to your project. This may include bug reporting, feature requests, or code contributions.</p>
 
   <h2 style="color: #2ecc71;">License</h2>
 
-  <p>Specify the license under which your project is distributed. For example:</p>
-
   <p>This project is licensed under the <span style="color: #e74c3c;">MIT License</span> - see the <a href="LICENSE.md" style="color: #e74c3c;">LICENSE.md</a> file for details.</p>
 
-  <h2 style="color: #2ecc71;">Acknowledgments</h2>
-
-  <p>Give credit to any resources, libraries, or individuals that you used or were inspired by during the development of your project.</p>
+  
 
 </body>
 </html>
