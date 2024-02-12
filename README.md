@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <body style="font-family: 'Arial', sans-serif; margin: 20px;">
 
