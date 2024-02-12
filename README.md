@@ -2,27 +2,25 @@
 <html lang="en">
 <body style="font-family: 'Arial', sans-serif; margin: 20px;">
 
-  <h1 style="color: #3498db;">Your Machine Learning Project</h1>
+  <h1 style="color: #3498db;">Predicting the Risk of having a Stroke using Demographics and Health Factors a Person</h1>
 
   <h2 style="color: #2ecc71;">Overview</h2>
 
-  <p>Provide a brief introduction to your machine learning project. What problem does it solve? What dataset did you use? What algorithms are implemented?</p>
+  <p>A considerable number of people are dying a year due to strokes because many of them have not any idea whether they are like to face this condition. So the model that we are going to implemented can be used in health sectors for predicting whether a person is going to have a stroke and if the result is possible they can take necessary actions to prevent from having a stroke.</p>
 
-  <h2 style="color: #2ecc71;">Installation</h2>
+  <h2 style="color: #2ecc71;">Defining ML Problem</h2>
+  <ul>
+    <li>Task T: Predicting the risk of having a stroke</li>
+    <li>Performance Measure P: Percent of correctly predicted result out of the total test data set</li>
+    <li>Training experience E: Using a set of data with given the stroke possibility</li>
+  </ul>
 
-  <p>Specify the steps to install any dependencies required for your project. You can include code snippets or refer to external documentation.</p>
 
-  <pre style="background-color: #f8f8f8; padding: 10px; border: 1px solid #ddd; border-radius: 4px; overflow-x: auto;">
-    <code>pip install -r requirements.txt</code>
-  </pre>
-
-  <h2 style="color: #2ecc71;">Usage</h2>
-
-  <p>Explain how to use your machine learning model. Include code examples and any necessary configuration settings.</p>
-
-  <pre style="background-color: #f8f8f8; padding: 10px; border: 1px solid #ddd; border-radius: 4px; overflow-x: auto;">
-    <code>python predict.py --input data/sample_input.csv --output predictions.csv</code>
-  </pre>
+  <h2 style="color: #2ecc71;">Algorithms Used</h2>
+<ul>
+    <li>Logistic Regression</li>
+    <li>Naive Bayes</li>
+  </ul>
 
   <h2 style="color: #2ecc71;">Directory Structure</h2>
 
@@ -30,20 +28,15 @@
 
   <pre style="font-family: 'Courier New', monospace; background-color: #f8f8f8; padding: 10px; border: 1px solid #ddd; border-radius: 4px; overflow-x: auto;">
     .
-    ├── data
-    │   ├── sample_input.csv
-    │   └── ...
-    ├── src
-    │   ├── main.py
-    │   ├── model.py
-    │   └── ...
+    ├── EE5253_2023_Code_Group01.ipynb(Includes the code)
+    ├── EE5253_2023_Code_Group01.pdf(Includes the research paper)
     ├── README.md
-    └── requirements.txt
+    └── health-dataset-stroke-data.csv
   </pre>
 
   <h2 style="color: #2ecc71;">Results</h2>
 
-  <p>If applicable, showcase the results of your machine learning model. This could include performance metrics, visualizations, or any other relevant information.</p>
+  
 
   <h2 style="color: #2ecc71;">Contributing</h2>
 
