@@ -35,7 +35,7 @@
     └── health-dataset-stroke-data.csv
   </pre>
    <h2 style="color: #000066;">Workflow</h2>
-   <img src = "https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/Workflow.PNG" width="75%/>
+   <img src = "https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/Workflow.PNG?raw=true" width="75%/>
 
   <h2 style="color: #000066;">Results</h2>
   <div style="display: flex;">
