@@ -45,7 +45,7 @@
 <img src = "https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke/blob/main/Performance%201.PNG?raw=true" width="50%"/>
     </div>
 
-  <h2 style="color: #000066;">Results</h2>
+  <h2 style="color: #000066;">Resource</h2>
   <a href="https://github.com/IyenshiAUT/Machine-Learning-Project-Predicting-the-Risk-of-having-a-Stroke">Click Here</a>
 
 
